@@ -1,0 +1,62 @@
+[
+  {
+    "name": "AI Addendum",
+    "description": "Addendum to a main agreement covering a provider's AI services, including model training, data use, and AI-specific restrictions.",
+    "filename": "AI-Addendum.md"
+  },
+  {
+    "name": "Business Associate Agreement",
+    "description": "HIPAA business associate agreement governing a provider's handling of protected health information (PHI).",
+    "filename": "BAA.md"
+  },
+  {
+    "name": "Cloud Service Agreement",
+    "description": "Standard terms for a customer's subscription to a provider's cloud-hosted software service.",
+    "filename": "CSA.md"
+  },
+  {
+    "name": "Data Processing Agreement",
+    "description": "Terms for processing personal data on a customer's behalf, covering controller/processor roles, subprocessors and security.",
+    "filename": "DPA.md"
+  },
+  {
+    "name": "Design Partner Agreement",
+    "description": "Agreement under which a design partner gets early access to a product in exchange for feedback.",
+    "filename": "design-partner-agreement.md"
+  },
+  {
+    "name": "Mutual Non-Disclosure Agreement - Standard Terms",
+    "description": "Standard terms of a mutual NDA protecting confidential information shared by both parties.",
+    "filename": "Mutual-NDA.md"
+  },
+  {
+    "name": "Mutual Non-Disclosure Agreement - Cover Page",
+    "description": "Cover page for the Mutual NDA capturing the purpose, term and party details.",
+    "filename": "Mutual-NDA-coverpage.md"
+  },
+  {
+    "name": "Partnership Agreement",
+    "description": "Terms for a business partnership in which each party performs agreed obligations, such as co-marketing or referrals.",
+    "filename": "Partnership-Agreement.md"
+  },
+  {
+    "name": "Pilot Agreement",
+    "description": "Terms for a customer's time-limited trial of a product before committing to a full agreement.",
+    "filename": "Pilot-Agreement.md"
+  },
+  {
+    "name": "Professional Services Agreement",
+    "description": "Terms for services delivered under statements of work, including change orders, deliverables and acceptance.",
+    "filename": "psa.md"
+  },
+  {
+    "name": "Service Level Agreement",
+    "description": "Uptime and support response commitments, with remedies, supplementing a main service agreement.",
+    "filename": "sla.md"
+  },
+  {
+    "name": "Software License Agreement",
+    "description": "Terms for licensing software to a customer, including user accounts, usage data and open source software.",
+    "filename": "Software-License-Agreement.md"
+  }
+]
